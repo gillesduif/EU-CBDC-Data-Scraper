@@ -62,7 +62,7 @@ cd EU-CBDC-Data-Scraper
 
 3. Install dependencies:
 ```bash
-pip install google-api-python-client pandas beautifulsoup4 requests
+pip install -r requirements.txt
 ```
 
 ## Setup
