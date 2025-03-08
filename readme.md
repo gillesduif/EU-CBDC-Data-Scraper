@@ -1,4 +1,4 @@
-# CBDC Data Scraper
+#EU CBDC Data Scraper
 
 Welcome to the **CBDC Data Scraper**! This tool is designed to automate the collection of data related to Central Bank Digital Currencies (CBDCs) and the digital euro from reliable online sources. By leveraging advanced Google search operators, this scraper targets white papers, legal documents, academic publications, and technical reports from official websites, research institutes, and more.
 
@@ -52,12 +52,12 @@ Below are the key search strategies implemented in the scraper:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cbdc-data-scraper.git
+git clone https://github.com/gillesduif/EU-CBDC-Data-Scraper.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd cbdc-data-scraper
+cd EU-CBDC-Data-Scraper
 ```
 
 3. Install dependencies:
@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue or reach out to [your email or GitHub handle].
+For questions or suggestions, feel free to open an issue.
