@@ -52,12 +52,12 @@ Below are the key search strategies implemented in the scraper:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cbdc-data-scraper.git
+git clone https://github.com/gillesduif/EU-CBDC-Data-Scraper.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd cbdc-data-scraper
+cd EU-CBDC-Data-Scraper
 ```
 
 3. Install dependencies:
@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue or reach out to [your email or GitHub handle].
+For questions or suggestions, feel free to open an issue.
