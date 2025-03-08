@@ -1,4 +1,4 @@
-# CBDC Data Scraper
+#EU CBDC Data Scraper
 
 Welcome to the **CBDC Data Scraper**! This tool is designed to automate the collection of data related to Central Bank Digital Currencies (CBDCs) and the digital euro from reliable online sources. By leveraging advanced Google search operators, this scraper targets white papers, legal documents, academic publications, and technical reports from official websites, research institutes, and more.
 
